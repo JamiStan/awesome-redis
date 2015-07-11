@@ -50,7 +50,7 @@ A curated list of amazingly awesome redis and redis ecosystem resources. Inspire
 * [How to Use Azure Redis Cache](http://azure.microsoft.com/en-in/documentation/articles/cache-dotnet-how-to-use-azure-redis-cache/?rnd=1) 
 * [Redis, from the Ground Up](http://blog.mjrusso.com/2010/10/17/redis-from-the-ground-up.html) 
 * [Redis: under the hood](https://pauladamsmith.com/articles/redis-under-the-hood.html) -  How does the Redis server work?
-
+* [Using Redis as a temporary cache for data shared by multiple independent processes](http://dev.mensfeld.pl/2011/11/using-redis-as-a-temporary-cache-for-data-shared-by-multiple-independent-processes/)
 
 ---
 ## Peroformance Monitoring
